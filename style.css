@@ -1,0 +1,115 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.margin{
+    margin: 1px;
+    height: fit-content;
+}
+
+.navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.page-header{
+    text-decoration: underline;
+    text-transform: none;
+    text-align:center;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+.page-content .img img
+{
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-block-end: 2px;
+    border: 1px solid white;
+
+    border-width:20px;
+    float: left;
+}
+.footer{
+
+    text-align: center;
+    background-color:green;
+    color: blanchedalmond;
+    height: 30%;
+    width:100rem;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.header{
+    
+    text-align: center;
+    color: gold;
+    background-size: 10px;
+    align-self: auto;
+    
+}
+
+.feature-img img
+{
+    margin-top: 10px;
+   width: 20%;
+   position: relative;
+   border-style:inset;
+   border: 2px solid white;
+}
+.submit{
+    text-align: center;
+}
+.login{
+ 
+    float:none;
+    border: 3px solid dodgerblue;
+    background-color: white;
+    width: 25em; ;
+    height: 25em;
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-right:35%;
+    margin-left:35%;
+    padding: 30px;
+
+}
+.sign-up{
+    float:none;
+    border: 3px solid dodgerblue;
+    background-color: white;
+    width: 25em; ;
+    height: 45em;
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-right:35%;
+    margin-left:35%;
+    padding: 30px;
+
+}
+.button{
+    text-align: center;
+}
+.districts{
+    height:20%;
+    width: 60%;
+    align-items: flex-start;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.b4{
+    text-decoration: none;
+    color: black;
+}
+.error
+{
+  color: red;
+  size: 80%
+}
+.hidden
+{
+  display:none;
+}
